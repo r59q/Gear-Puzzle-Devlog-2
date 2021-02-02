@@ -10,7 +10,9 @@ https://www.youtube.com/watch?v=Z7IqD4jsLw4&feature=youtu.be
  5. Create new empty game object
  6. Add 'debugging script' component.
  7. Add the gears to the list of gears in debugging script.
- 8. Play
- 9. You can now play around with the gears. Set rotate to true for 1 of the gears and add speed.
+ 8. Create new empty game object.
+ 9. Add component 'Gear Chains' to it.
+ 10. Play
+ 11. You can now play around with the gears. Set rotate to true for the last gear in the list of gears on the debugging script object.
 
 Note : Manual generation doesn't work. You must enable automatic generation for gear mesh.

@@ -4,9 +4,9 @@ https://www.youtube.com/watch?v=Z7IqD4jsLw4&feature=youtu.be
  
  If you want to try this, 
  1. Add empty game object.
- 2. Add gear script to empty object and adjust settings.
+ 2. Add 'gear' component to empty object and adjust settings.
  3. Assign the material
- 4. Repeat this a couple of times
+ 4. Repeat this a couple of times / dublicate gear object.
  5. Create new empty game object
  6. Add 'debugging script' component.
  7. Add the gears to the list of gears in debugging script.
